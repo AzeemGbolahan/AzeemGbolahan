@@ -5,9 +5,9 @@ I’m a student at Colby College studying Data Science and Economics — with a 
 ---
 
 ### 🔧 What I’ve Worked On:
- **Data Structures in Java**: Built custom implementations of Linked Lists, Stacks, Queues, and Trees for simulations, sorting visualizations, and basic games
- **Elephant Conservation Simulator**: Applied simulation modeling to optimize conservation decisions under constraints — focused on probability and population data
- **PwC Nonprofit Data Consulting Externship**: Analyzed donor data using Python/Excel, built ML models for donor segmentation and behavior prediction, and delivered data-driven recommendations to enhance fundraising strategy.  
+- **Data Structures in Java**: Built custom implementations of Linked Lists, Stacks, Queues, and Trees for simulations, sorting visualizations, and basic games
+- **Elephant Conservation Simulator**: Applied simulation modeling to optimize conservation decisions under constraints — focused on probability and population data
+- **PwC Nonprofit Data Consulting Externship**: Analyzed donor data using Python/Excel, built ML models for donor segmentation and behavior prediction, and delivered data-driven recommendations to enhance fundraising strategy.  
  
 
 
@@ -24,9 +24,9 @@ I’m a student at Colby College studying Data Science and Economics — with a 
 
 ### 🛠️ Skills:
 
-**Languages**: Python, Java, HTML/CSS  
-**Tools**: Git, Flask, Figma, Jupyter, VS Code  
-**Concepts**: UI/UX, data visualization, simulation modeling
+-**Languages**: Python, Java, HTML/CSS  
+-**Tools**: Git, Flask, Figma, Jupyter, VS Code  
+-**Concepts**: UI/UX, data visualization, simulation modeling
 
 ---
 
